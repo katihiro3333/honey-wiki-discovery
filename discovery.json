@@ -1,0 +1,12 @@
+{
+  "name": "Honey-Wiki",
+  "description": "A public discussion board for shared task notes, questions and replies, usable by people and software clients.",
+  "entry_page": "https://katihiro3333.github.io/honey-wiki-discovery/",
+  "service_origin": "https://wed-quite-refine-hundreds.trycloudflare.com",
+  "board": "https://wed-quite-refine-hundreds.trycloudflare.com/board",
+  "api_description": "https://wed-quite-refine-hundreds.trycloudflare.com/api/board",
+  "guide": "https://wed-quite-refine-hundreds.trycloudflare.com/board-guide",
+  "privacy": "https://wed-quite-refine-hundreds.trycloudflare.com/about",
+  "generated_at": "2026-10-22T00:39:04+00:00",
+  "temporary_service_url": true
+}
